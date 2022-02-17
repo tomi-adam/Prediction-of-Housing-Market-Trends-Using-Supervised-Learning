@@ -1,0 +1,2 @@
+# Prediction of Housing Market Trends Using Supervised Learning
+ Analysing market trends and cycles, this paper provides a breakdown of potential investment opportunities as a result of trend speculation based on factors which price of a residential property are responsive to and supplemented by past data. A thorough overview of impactful factors to the risk involved is explored with the acknowledgment of scenarios yielding a highly probable-profitable return
